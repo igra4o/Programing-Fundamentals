@@ -1,6 +1,0 @@
-c:\users\spasimir\documents\visual studio 2017\Projects\C06-Conditional-Statements-and-Loops-Exe\C01-Choose-a-Drink\bin\Debug\C01-Choose-a-Drink.exe.config
-c:\users\spasimir\documents\visual studio 2017\Projects\C06-Conditional-Statements-and-Loops-Exe\C01-Choose-a-Drink\bin\Debug\C01-Choose-a-Drink.exe
-c:\users\spasimir\documents\visual studio 2017\Projects\C06-Conditional-Statements-and-Loops-Exe\C01-Choose-a-Drink\bin\Debug\C01-Choose-a-Drink.pdb
-c:\users\spasimir\documents\visual studio 2017\Projects\C06-Conditional-Statements-and-Loops-Exe\C01-Choose-a-Drink\obj\Debug\C01-Choose-a-Drink.csprojResolveAssemblyReference.cache
-c:\users\spasimir\documents\visual studio 2017\Projects\C06-Conditional-Statements-and-Loops-Exe\C01-Choose-a-Drink\obj\Debug\C01-Choose-a-Drink.exe
-c:\users\spasimir\documents\visual studio 2017\Projects\C06-Conditional-Statements-and-Loops-Exe\C01-Choose-a-Drink\obj\Debug\C01-Choose-a-Drink.pdb

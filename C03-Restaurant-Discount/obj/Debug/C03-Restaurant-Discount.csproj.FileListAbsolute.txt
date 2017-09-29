@@ -1,6 +1,0 @@
-c:\users\spasimir\documents\visual studio 2017\Projects\C06-Conditional-Statements-and-Loops-Exe\C03-Restaurant-Discount\bin\Debug\C03-Restaurant-Discount.exe.config
-c:\users\spasimir\documents\visual studio 2017\Projects\C06-Conditional-Statements-and-Loops-Exe\C03-Restaurant-Discount\bin\Debug\C03-Restaurant-Discount.exe
-c:\users\spasimir\documents\visual studio 2017\Projects\C06-Conditional-Statements-and-Loops-Exe\C03-Restaurant-Discount\bin\Debug\C03-Restaurant-Discount.pdb
-c:\users\spasimir\documents\visual studio 2017\Projects\C06-Conditional-Statements-and-Loops-Exe\C03-Restaurant-Discount\obj\Debug\C03-Restaurant-Discount.csprojResolveAssemblyReference.cache
-c:\users\spasimir\documents\visual studio 2017\Projects\C06-Conditional-Statements-and-Loops-Exe\C03-Restaurant-Discount\obj\Debug\C03-Restaurant-Discount.exe
-c:\users\spasimir\documents\visual studio 2017\Projects\C06-Conditional-Statements-and-Loops-Exe\C03-Restaurant-Discount\obj\Debug\C03-Restaurant-Discount.pdb
