@@ -1,0 +1,5 @@
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\C05-Foreign-Languages\bin\Debug\C05-Foreign-Languages.exe.config
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\C05-Foreign-Languages\bin\Debug\C05-Foreign-Languages.exe
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\C05-Foreign-Languages\bin\Debug\C05-Foreign-Languages.pdb
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\C05-Foreign-Languages\obj\Debug\C05-Foreign-Languages.exe
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\C05-Foreign-Languages\obj\Debug\C05-Foreign-Languages.pdb

@@ -1,0 +1,5 @@
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\C04-Month-Printer\bin\Debug\C04-Month-Printer.exe.config
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\C04-Month-Printer\bin\Debug\C04-Month-Printer.exe
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\C04-Month-Printer\bin\Debug\C04-Month-Printer.pdb
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\C04-Month-Printer\obj\Debug\C04-Month-Printer.exe
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\C04-Month-Printer\obj\Debug\C04-Month-Printer.pdb

@@ -1,0 +1,5 @@
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\C06-Theathre-Promotions\bin\Debug\C06-Theathre-Promotions.exe.config
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\C06-Theathre-Promotions\bin\Debug\C06-Theathre-Promotions.exe
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\C06-Theathre-Promotions\bin\Debug\C06-Theathre-Promotions.pdb
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\C06-Theathre-Promotions\obj\Debug\C06-Theathre-Promotions.exe
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\C06-Theathre-Promotions\obj\Debug\C06-Theathre-Promotions.pdb

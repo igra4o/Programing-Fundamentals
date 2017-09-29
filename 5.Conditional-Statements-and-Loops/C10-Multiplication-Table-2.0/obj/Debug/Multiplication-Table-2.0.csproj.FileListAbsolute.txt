@@ -1,0 +1,6 @@
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\Multiplication-Table-2.0\bin\Debug\Multiplication-Table-2.0.exe.config
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\Multiplication-Table-2.0\bin\Debug\Multiplication-Table-2.0.exe
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\Multiplication-Table-2.0\bin\Debug\Multiplication-Table-2.0.pdb
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\Multiplication-Table-2.0\obj\Debug\Multiplication-Table-2.0.csprojResolveAssemblyReference.cache
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\Multiplication-Table-2.0\obj\Debug\Multiplication-Table-2.0.exe
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\Multiplication-Table-2.0\obj\Debug\Multiplication-Table-2.0.pdb

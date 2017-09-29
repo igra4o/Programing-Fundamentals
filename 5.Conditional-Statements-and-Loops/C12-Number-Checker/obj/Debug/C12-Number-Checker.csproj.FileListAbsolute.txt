@@ -1,0 +1,6 @@
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\C12-Number-Checker\bin\Debug\C12-Number-Checker.exe.config
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\C12-Number-Checker\bin\Debug\C12-Number-Checker.exe
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\C12-Number-Checker\bin\Debug\C12-Number-Checker.pdb
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\C12-Number-Checker\obj\Debug\C12-Number-Checker.csprojResolveAssemblyReference.cache
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\C12-Number-Checker\obj\Debug\C12-Number-Checker.exe
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\C12-Number-Checker\obj\Debug\C12-Number-Checker.pdb

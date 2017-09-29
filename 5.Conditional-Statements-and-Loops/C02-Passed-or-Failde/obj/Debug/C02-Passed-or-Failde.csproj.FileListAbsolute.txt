@@ -1,0 +1,6 @@
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\C02-Passed-or-Failde\bin\Debug\C02-Passed-or-Failde.exe.config
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\C02-Passed-or-Failde\bin\Debug\C02-Passed-or-Failde.exe
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\C02-Passed-or-Failde\bin\Debug\C02-Passed-or-Failde.pdb
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\C02-Passed-or-Failde\obj\Debug\C02-Passed-or-Failde.csprojResolveAssemblyReference.cache
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\C02-Passed-or-Failde\obj\Debug\C02-Passed-or-Failde.exe
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\C02-Passed-or-Failde\obj\Debug\C02-Passed-or-Failde.pdb

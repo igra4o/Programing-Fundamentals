@@ -1,0 +1,6 @@
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\Odd-Number\bin\Debug\Odd-Number.exe.config
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\Odd-Number\bin\Debug\Odd-Number.exe
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\Odd-Number\bin\Debug\Odd-Number.pdb
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\Odd-Number\obj\Debug\Odd-Number.csprojResolveAssemblyReference.cache
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\Odd-Number\obj\Debug\Odd-Number.exe
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\Odd-Number\obj\Debug\Odd-Number.pdb

@@ -1,0 +1,6 @@
+c:\users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\Divisible-by-3\bin\Debug\Divisible-by-3.exe.config
+c:\users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\Divisible-by-3\bin\Debug\Divisible-by-3.exe
+c:\users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\Divisible-by-3\bin\Debug\Divisible-by-3.pdb
+c:\users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\Divisible-by-3\obj\Debug\Divisible-by-3.csprojResolveAssemblyReference.cache
+c:\users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\Divisible-by-3\obj\Debug\Divisible-by-3.exe
+c:\users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\Divisible-by-3\obj\Debug\Divisible-by-3.pdb

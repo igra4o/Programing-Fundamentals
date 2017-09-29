@@ -1,0 +1,5 @@
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\Sum-of-Odd-Nums\bin\Debug\Sum-of-Odd-Nums.exe.config
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\Sum-of-Odd-Nums\bin\Debug\Sum-of-Odd-Nums.exe
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\Sum-of-Odd-Nums\bin\Debug\Sum-of-Odd-Nums.pdb
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\Sum-of-Odd-Nums\obj\Debug\Sum-of-Odd-Nums.exe
+C:\Users\spasimir\documents\visual studio 2017\Projects\C03-Conditional-Statements-and-Loops\Sum-of-Odd-Nums\obj\Debug\Sum-of-Odd-Nums.pdb
